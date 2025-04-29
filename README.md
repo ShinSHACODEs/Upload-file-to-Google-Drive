@@ -4,7 +4,7 @@
 
 # เมื่อสร้างแล้ว ให้ทำการเข้า Google API Service หรือ Google Cloud
 ให้ทำการ create new project รองรับไว้ก่อน
-![image](https://github.com/user-attachments/assets/85f30b76-01b1-4fa1-9199-4a57af1d514d)
+![Screenshot 2025-04-29 144502](https://github.com/user-attachments/assets/e207990c-1cd0-4451-b257-b90def2262a5)
 
 หลังจากนั้นเข้าเมนูตัวเลือก IAM and Admin
 https://console.cloud.google.com/
