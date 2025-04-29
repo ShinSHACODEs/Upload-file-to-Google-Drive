@@ -8,10 +8,10 @@
 
 หลังจากนั้นเข้าเมนูตัวเลือก IAM and Admin
 https://console.cloud.google.com/
+ทำการ Select Project ที่ตั้งเอาไว้
 
-# ทำการ Select Project ที่ตั้งเอาไว้
 ![image](https://github.com/user-attachments/assets/1b2b6380-f0d1-4bbf-8062-bba4db16d7c5)
-สร้าง create service accout
+# สร้าง create service accout
 
 กดไปตัวเลือกหน้า Key เพื่อสร้าง Keys สำหรับเอา ใส่ใน secrets
 ![image](https://github.com/user-attachments/assets/60ffefe7-13ef-4032-be4e-51e90df2b8f7)
