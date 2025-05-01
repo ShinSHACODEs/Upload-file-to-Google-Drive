@@ -36,3 +36,5 @@ credentials: คือ Keys ประเภท JSON
 สร้าง Secrets key ต่างโดยก็อปสิ่งจำเป็นทั้งหมดลงไปแยกไฟล์ตามชื่อ เป็นอันเสร็จ
 ![image](https://github.com/user-attachments/assets/d7e1e1ca-d809-4a88-bdef-768271a213c3)
 
+Credit code to:mathisve https://github.com/mathisve/gdrive-upload-action
+
